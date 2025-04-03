@@ -41,9 +41,3 @@ Currently studying at Sorbonne University, always looking to sharpen my skills a
 ![OCaml](https://img.shields.io/badge/OCaml-EF7A08?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Suite](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=arahenrique-dev&show_icons=true&theme=radical)
-
