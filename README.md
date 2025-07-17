@@ -8,7 +8,7 @@ I'm currently studying at Sorbonne University, and I'm always looking to use my 
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-p-aragao/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquepires.ge@gmail.com)
-[![Site](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=website&logoColor=white)](https://www.henriquearagaoportfolio.com/)
+[![Website](https://img.shields.io/badge/Portfolio-8A2BE2)](https://www.henriquearagaoportfolio.com/)
 
 
 ---
