@@ -2,30 +2,13 @@
 
 I'm a curious explorer of technology, design, and adventure. Passionate about **UX/UI, React & React Native, and creative problem-solving**, I'm on a journey to blend code with art, science, and human-centered experiences.
 
-Currently studying at Sorbonne University, always looking to sharpen my skills accross different fields to tackle different problems.
+I'm currently studying at Sorbonne University, and I'm always looking to use my skills accross different fields.
 
-> *“The most beautiful things in the world cannot be seen or touched, they are felt with the heart.”* - _Antoine de Saint-Exupéry, The Little Prince._ 🌟
-
----
-
-### 🚀 What Drives Me
-🖌️ **Designing Experiences** – From intuitive **UX/UI** to product design, I love crafting interfaces that people enjoy using.
-
-🖌️ **Art through Code** – From intuitive **UX/UI** to creative coding, I love crafting interfaces and blending the limits of art and technology.
-
-📱 **Building Solutions** – Learning **React Native** to bring solutions to life through mobile apps.
-
-🌊 **Exploring the Unknown** – Whether it's **diving deep into the ocean** or experimenting with new technologies, I'm always up for an adventure.
-
-🎷 **Creating & Expressing** – Sketching, painting and learning new languages to connect with the world.
-
-✈️ **Seeking Boundless Horizons** – by building international relations my career path is an open canvas.
-
----
 
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-p-aragao/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquepires.ge@gmail.com)
+[![Website](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.henriquearagaoportfolio.com/)
 
 
 ---
