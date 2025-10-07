@@ -1,6 +1,6 @@
 ### Hi there! I'm Henrique 🌍
 
-I'm a curious explorer of technology, design, and adventure. Passionate about **UX/UI, React & React Native, and creative problem-solving**, I'm on a journey to blend code with art, science, and human-centered experiences.
+I'm a curious explorer of technology, design, and adventure. Passionate about UX/UI, full-stack development (React, Node.js, databases), and creative problem-solving, I'm on a journey to blend code with art, science, and human-centered experiences.
 
 I'm currently studying at Sorbonne University, and I'm always looking to use my skills accross different fields.
 
